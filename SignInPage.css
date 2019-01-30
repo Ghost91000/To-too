@@ -1,0 +1,19 @@
+#IlumIcon{
+  position: relative;
+  left: 40.8%;
+}
+
+#logIn{
+  text-align: center;
+}
+
+#button{
+  position: relative;
+  left: 60%;
+  display: flex;
+}
+
+#buttonImg{
+  height:20px;
+  width:25px;
+}
