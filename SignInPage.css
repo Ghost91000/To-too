@@ -4,12 +4,16 @@
 }
 
 #logIn{
+  position: absolute;
+  left:36%;
+  top:40%;
   text-align: center;
 }
 
 #button{
-  position: relative;
-  left: 60%;
+  position: absolute;
+  right: 5%;
+  top: 42%;
   display: flex;
 }
 
@@ -35,9 +39,11 @@
 #eye{
   width: 35px;
   height: 35px;
-  position: relative;
   z-index: 1;
-  bottom:40%;
-  left: 30%;
-  top:25%;
+}
+
+#moveEye{
+  position: absolute;
+  left: 60%;
+  top: 9%;
 }
