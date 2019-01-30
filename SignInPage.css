@@ -17,3 +17,17 @@
   height:20px;
   width:25px;
 }
+
+#eyeMasson{
+  width: 35px;
+  height: 35px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  background: black;
+  position: relative;
+  z-index: 1;
+  top: 30%;
+  left: 41%;
+  z-index: 1;
+}
