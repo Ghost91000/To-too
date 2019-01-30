@@ -24,7 +24,7 @@
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
-  background: black;
+  background:#000000;
   position: relative;
   z-index: 1;
   top: 30%;
