@@ -31,3 +31,13 @@
   left: 41%;
   z-index: 1;
 }
+
+#eye{
+  width: 35px;
+  height: 35px;
+  position: relative;
+  z-index: 1;
+  bottom:40%;
+  left: 30%;
+  top:25%;
+}
