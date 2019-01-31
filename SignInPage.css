@@ -11,7 +11,28 @@
   margin-left: -50px;
 }
 #mainBlock {
+  text-align: center;
   position: relative;
-  margin-left: 20%;
+  margin-left: 50%;
+  margin-left: -47.91px;
   margin-top:20%;
+}
+.input{
+  border-radius: 20px;
+  font-size: 20px;
+}
+.buttomOk {
+  position: fixed;
+  right: 90px;
+  top:200px;
+  width: 300px;
+  height: 180px;
+}
+.trianglee {
+width: 800px;
+height:500px;
+position: fixed;
+right: -390px;
+top: 130px;
+transform: scale(1,-1);
 }
