@@ -23,19 +23,20 @@
   font-size: 20px;
 }
 .buttomOk {
-  position: fixed;
+  position: relative;
   right: 60px;
   top:115px;
   width: 300px;
   height: 180px;
 }
 #trianglee {
-width: 800px;
-height:500px;
-position: fixed;
-right: -390px;
-top: 60px;
-transform: scale(1,-1);
+
+  width: 800px;
+  height:500px;
+  position: fixed;
+  right: -390px;
+  top: 60px;
+  transform: scale(1,-1);
 }
 #foot {
   position: fixed;
