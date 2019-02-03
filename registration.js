@@ -6,5 +6,5 @@ function rot() {
   var t = document.getElementById("trianglee");
   t.style.transform = "rotate("+angle+"deg)";
   angle+=1;
-}
+} 
 },5);}
