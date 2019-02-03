@@ -23,11 +23,13 @@
   font-size: 20px;
 }
 .buttomOk {
-  position: relative;
-  right: 60px;
-  top:115px;
+  position: fixed;
+  right: 50px;
+  top: 100px;
   width: 300px;
   height: 180px;
+  z-index:2;
+  outline: none;
 }
 #trianglee {
 
