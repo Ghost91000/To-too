@@ -40,8 +40,10 @@ h1 {
   top:380px;
   height:180px;
   width: 300px;
+  outline: none;
+  z-index: 2;
 }
-.trianglee {
+#trianglee {
 width: 800px;
 height:500px;
 position: fixed;
